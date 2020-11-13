@@ -1,0 +1,1703 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-06-16T07:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7151181",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Guàrdia Civil",
+        "source": "PNOA",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -0.3594861,
+                39.4824239
+              ],
+              [
+                -0.3596595,
+                39.4818966
+              ],
+              [
+                -0.3595478,
+                39.4818747
+              ],
+              [
+                -0.3593744,
+                39.482402
+              ],
+              [
+                -0.3594861,
+                39.4824239
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -0.3591663,
+                39.48253
+              ],
+              [
+                -0.3596157,
+                39.4826192
+              ],
+              [
+                -0.3598831,
+                39.4818163
+              ],
+              [
+                -0.3594336,
+                39.4817272
+              ],
+              [
+                -0.3591663,
+                39.48253
+              ]
+            ],
+            [
+              [
+                -0.3592931,
+                39.4824484
+              ],
+              [
+                -0.3594982,
+                39.4818008
+              ],
+              [
+                -0.3597534,
+                39.4818489
+              ],
+              [
+                -0.3595483,
+                39.4824965
+              ],
+              [
+                -0.3592931,
+                39.4824484
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "relation/7151181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32402006",
+        "amenity": "police",
+        "area": "yes",
+        "name": "Cuartel de la Guardia Civil"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.464614,
+              39.4679556
+            ],
+            [
+              -0.464047,
+              39.4676734
+            ],
+            [
+              -0.4637729,
+              39.4677809
+            ],
+            [
+              -0.4636976,
+              39.4683695
+            ],
+            [
+              -0.4642324,
+              39.4681813
+            ],
+            [
+              -0.464614,
+              39.4679556
+            ]
+          ]
+        ]
+      },
+      "id": "way/32402006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/142598076",
+        "addr:city": "Mislata",
+        "addr:postcode": "46920",
+        "addr:street": "Avinguda de Buenos Aires",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia Municipal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4156289,
+              39.4785818
+            ],
+            [
+              -0.415358,
+              39.4784803
+            ],
+            [
+              -0.4152882,
+              39.4785507
+            ],
+            [
+              -0.4152185,
+              39.4785631
+            ],
+            [
+              -0.4149959,
+              39.4788675
+            ],
+            [
+              -0.4148805,
+              39.4789834
+            ],
+            [
+              -0.4148242,
+              39.4790455
+            ],
+            [
+              -0.4148886,
+              39.4792111
+            ],
+            [
+              -0.4149986,
+              39.4793767
+            ],
+            [
+              -0.4151541,
+              39.4794947
+            ],
+            [
+              -0.4152963,
+              39.4795486
+            ],
+            [
+              -0.4154358,
+              39.4796293
+            ],
+            [
+              -0.4155833,
+              39.4797639
+            ],
+            [
+              -0.4157362,
+              39.4799357
+            ],
+            [
+              -0.4158594,
+              39.4798828
+            ],
+            [
+              -0.4156235,
+              39.4795962
+            ],
+            [
+              -0.4153419,
+              39.479354
+            ],
+            [
+              -0.41513,
+              39.479149
+            ],
+            [
+              -0.4150656,
+              39.4790641
+            ],
+            [
+              -0.415071,
+              39.4789751
+            ],
+            [
+              -0.4151219,
+              39.4788882
+            ],
+            [
+              -0.4152212,
+              39.4787991
+            ],
+            [
+              -0.4152722,
+              39.4788012
+            ],
+            [
+              -0.415484,
+              39.478884
+            ],
+            [
+              -0.4156289,
+              39.4785818
+            ]
+          ]
+        ]
+      },
+      "id": "way/142598076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144127551",
+        "addr:housenumber": "27",
+        "addr:street": "Calle Las Rosas",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comissaria de Policia de Paterna",
+        "name:ca": "Comissaria de Policia de Paterna",
+        "name:es": "Comisaría de Policia Nacional de Paterna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4520752,
+              39.5104945
+            ],
+            [
+              -0.4516225,
+              39.5100499
+            ],
+            [
+              -0.4512424,
+              39.5102747
+            ],
+            [
+              -0.4512236,
+              39.5103202
+            ],
+            [
+              -0.4512397,
+              39.510372
+            ],
+            [
+              -0.4512907,
+              39.5104237
+            ],
+            [
+              -0.4516393,
+              39.5104878
+            ],
+            [
+              -0.4520752,
+              39.5104945
+            ]
+          ]
+        ]
+      },
+      "id": "way/144127551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153955644",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Guardia Civil del Mar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3242768,
+              39.4258328
+            ],
+            [
+              -0.3244353,
+              39.425529
+            ],
+            [
+              -0.3242973,
+              39.425486
+            ],
+            [
+              -0.3241388,
+              39.4257898
+            ],
+            [
+              -0.3242768,
+              39.4258328
+            ]
+          ]
+        ]
+      },
+      "id": "way/153955644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167171796",
+        "amenity": "police",
+        "name": "Policía Local - Distrito Patraix"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4027601,
+              39.4538704
+            ],
+            [
+              -0.4027145,
+              39.4537876
+            ],
+            [
+              -0.4029532,
+              39.4537027
+            ],
+            [
+              -0.4028057,
+              39.45345
+            ],
+            [
+              -0.4026769,
+              39.4534189
+            ],
+            [
+              -0.4022773,
+              39.4535701
+            ],
+            [
+              -0.4022987,
+              39.4536043
+            ],
+            [
+              -0.4025062,
+              39.4539417
+            ],
+            [
+              -0.402524,
+              39.4539636
+            ],
+            [
+              -0.4027601,
+              39.4538704
+            ]
+          ]
+        ]
+      },
+      "id": "way/167171796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176224063",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría de Policía Autonómica de Valencia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3738514,
+              39.4813019
+            ],
+            [
+              -0.3739301,
+              39.4811796
+            ],
+            [
+              -0.3736783,
+              39.4810831
+            ],
+            [
+              -0.3736901,
+              39.4810647
+            ],
+            [
+              -0.3734911,
+              39.4809885
+            ],
+            [
+              -0.3734775,
+              39.4810095
+            ],
+            [
+              -0.3733694,
+              39.4809681
+            ],
+            [
+              -0.3732924,
+              39.4810877
+            ],
+            [
+              -0.3738514,
+              39.4813019
+            ]
+          ]
+        ]
+      },
+      "id": "way/176224063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218916649",
+        "addr:housenumber": "91",
+        "addr:street": "Calle Emilio Baró",
+        "amenity": "police",
+        "name": "Policía Local"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3594071,
+              39.4928895
+            ],
+            [
+              -0.3586808,
+              39.4926729
+            ],
+            [
+              -0.358654,
+              39.4927266
+            ],
+            [
+              -0.3585395,
+              39.4926938
+            ],
+            [
+              -0.3581165,
+              39.4935556
+            ],
+            [
+              -0.3582339,
+              39.493582
+            ],
+            [
+              -0.3582521,
+              39.4935443
+            ],
+            [
+              -0.3583219,
+              39.4935048
+            ],
+            [
+              -0.3584222,
+              39.4934479
+            ],
+            [
+              -0.3585931,
+              39.493351
+            ],
+            [
+              -0.358701,
+              39.4932898
+            ],
+            [
+              -0.3588658,
+              39.4931964
+            ],
+            [
+              -0.3588791,
+              39.4931888
+            ],
+            [
+              -0.3589309,
+              39.4931595
+            ],
+            [
+              -0.3590467,
+              39.4930938
+            ],
+            [
+              -0.3591369,
+              39.4930426
+            ],
+            [
+              -0.3594071,
+              39.4928895
+            ]
+          ]
+        ]
+      },
+      "id": "way/218916649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249825944",
+        "addr:city": "Valencia",
+        "addr:postcode": "46015",
+        "addr:street": "Camino Molí del Sol",
+        "amenity": "police",
+        "building": "yes",
+        "fax": "+34963895060",
+        "name": "Policía Local - Unidad Molí del Sol",
+        "note": "La Unidad Policial Parque de Cabecera comprende todo el Cauce del Río, parte del distrito de Campanar y las Pedanías de Benimamet y Beniferri.",
+        "phone": "+34963525478"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4097156,
+              39.4817391
+            ],
+            [
+              -0.4099316,
+              39.4816235
+            ],
+            [
+              -0.4096174,
+              39.4812712
+            ],
+            [
+              -0.4095364,
+              39.4813015
+            ],
+            [
+              -0.4094775,
+              39.4812503
+            ],
+            [
+              -0.4094505,
+              39.4810798
+            ],
+            [
+              -0.4094186,
+              39.480987
+            ],
+            [
+              -0.4093253,
+              39.4808904
+            ],
+            [
+              -0.409264,
+              39.480915
+            ],
+            [
+              -0.4093171,
+              39.4809812
+            ],
+            [
+              -0.4093401,
+              39.4810097
+            ],
+            [
+              -0.4093695,
+              39.4811499
+            ],
+            [
+              -0.4093834,
+              39.4812169
+            ],
+            [
+              -0.4094014,
+              39.4813034
+            ],
+            [
+              -0.4095094,
+              39.4815137
+            ],
+            [
+              -0.4096248,
+              39.4814834
+            ],
+            [
+              -0.4097352,
+              39.4816008
+            ],
+            [
+              -0.4096321,
+              39.4816595
+            ],
+            [
+              -0.4097156,
+              39.4817391
+            ]
+          ]
+        ]
+      },
+      "id": "way/249825944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297519441",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Guardia Civil Valencia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3891441,
+              39.4628648
+            ],
+            [
+              -0.3883636,
+              39.4622994
+            ],
+            [
+              -0.388259,
+              39.4621524
+            ],
+            [
+              -0.3878755,
+              39.4623284
+            ],
+            [
+              -0.3880471,
+              39.4625603
+            ],
+            [
+              -0.3888196,
+              39.4631339
+            ],
+            [
+              -0.3891441,
+              39.4628648
+            ]
+          ]
+        ]
+      },
+      "id": "way/297519441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367454160",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.328818,
+              39.4633996
+            ],
+            [
+              -0.3288418,
+              39.4632093
+            ],
+            [
+              -0.3286014,
+              39.4631914
+            ],
+            [
+              -0.3285776,
+              39.4633817
+            ],
+            [
+              -0.328818,
+              39.4633996
+            ]
+          ]
+        ]
+      },
+      "id": "way/367454160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/378391091",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policía Local de Alaquàs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4615491,
+              39.4566482
+            ],
+            [
+              -0.4615357,
+              39.4565643
+            ],
+            [
+              -0.4615371,
+              39.4565512
+            ],
+            [
+              -0.4615232,
+              39.4565523
+            ],
+            [
+              -0.46152,
+              39.4565579
+            ],
+            [
+              -0.4614793,
+              39.4565579
+            ],
+            [
+              -0.4614772,
+              39.4565617
+            ],
+            [
+              -0.4613521,
+              39.4565609
+            ],
+            [
+              -0.4613487,
+              39.4565579
+            ],
+            [
+              -0.4613116,
+              39.4565582
+            ],
+            [
+              -0.4613091,
+              39.4565544
+            ],
+            [
+              -0.4612177,
+              39.4565552
+            ],
+            [
+              -0.4612142,
+              39.4565582
+            ],
+            [
+              -0.4611786,
+              39.4565579
+            ],
+            [
+              -0.4611752,
+              39.4565621
+            ],
+            [
+              -0.4611519,
+              39.4565621
+            ],
+            [
+              -0.461149,
+              39.4565655
+            ],
+            [
+              -0.4611302,
+              39.456567
+            ],
+            [
+              -0.4611257,
+              39.4565701
+            ],
+            [
+              -0.4611089,
+              39.4565705
+            ],
+            [
+              -0.461104,
+              39.456575
+            ],
+            [
+              -0.4610918,
+              39.4565723
+            ],
+            [
+              -0.4610892,
+              39.4565792
+            ],
+            [
+              -0.4608934,
+              39.4566488
+            ],
+            [
+              -0.46097,
+              39.456745
+            ],
+            [
+              -0.4609566,
+              39.4567503
+            ],
+            [
+              -0.4609621,
+              39.4567553
+            ],
+            [
+              -0.4609532,
+              39.4567579
+            ],
+            [
+              -0.4610046,
+              39.4568198
+            ],
+            [
+              -0.4612857,
+              39.4566778
+            ],
+            [
+              -0.4613086,
+              39.4566662
+            ],
+            [
+              -0.4614476,
+              39.4566544
+            ],
+            [
+              -0.4615491,
+              39.4566482
+            ]
+          ]
+        ]
+      },
+      "id": "way/378391091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385627480",
+        "addr:city": "Valencia",
+        "addr:housenumber": "7",
+        "addr:postcode": "46009",
+        "addr:street": "Plaza de Roncesvalles",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría de Distrito Valencia Tránsitos",
+        "phone": "+34 963539730",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3784138,
+              39.4876891
+            ],
+            [
+              -0.3785623,
+              39.4876563
+            ],
+            [
+              -0.3785544,
+              39.487635
+            ],
+            [
+              -0.3785722,
+              39.487631
+            ],
+            [
+              -0.3785612,
+              39.4876013
+            ],
+            [
+              -0.3785849,
+              39.4875961
+            ],
+            [
+              -0.3785415,
+              39.4874789
+            ],
+            [
+              -0.3785182,
+              39.4874841
+            ],
+            [
+              -0.3785066,
+              39.4874528
+            ],
+            [
+              -0.3784316,
+              39.4874693
+            ],
+            [
+              -0.3784583,
+              39.4875412
+            ],
+            [
+              -0.3784242,
+              39.4875488
+            ],
+            [
+              -0.3784118,
+              39.4875564
+            ],
+            [
+              -0.378409,
+              39.4875636
+            ],
+            [
+              -0.3784095,
+              39.4875715
+            ],
+            [
+              -0.3784148,
+              39.4875795
+            ],
+            [
+              -0.3784219,
+              39.4875824
+            ],
+            [
+              -0.3784372,
+              39.4875837
+            ],
+            [
+              -0.3784513,
+              39.4876218
+            ],
+            [
+              -0.3783936,
+              39.4876345
+            ],
+            [
+              -0.3784138,
+              39.4876891
+            ]
+          ]
+        ]
+      },
+      "id": "way/385627480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/508713172",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Policía Local Godella"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4246638,
+              39.5282868
+            ],
+            [
+              -0.4243251,
+              39.528452
+            ],
+            [
+              -0.4243472,
+              39.5284786
+            ],
+            [
+              -0.424395,
+              39.5284793
+            ],
+            [
+              -0.4244631,
+              39.5284642
+            ],
+            [
+              -0.4245348,
+              39.5284383
+            ],
+            [
+              -0.4246011,
+              39.5284021
+            ],
+            [
+              -0.4246577,
+              39.5283585
+            ],
+            [
+              -0.424688,
+              39.5283199
+            ],
+            [
+              -0.4246638,
+              39.5282868
+            ]
+          ]
+        ]
+      },
+      "id": "way/508713172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542621758",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Central de Policia Local",
+        "operator": "Policia Local de Valencia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3996052,
+              39.4684183
+            ],
+            [
+              -0.3999586,
+              39.4672867
+            ],
+            [
+              -0.397627,
+              39.4668674
+            ],
+            [
+              -0.3976038,
+              39.4669603
+            ],
+            [
+              -0.3972976,
+              39.4680019
+            ],
+            [
+              -0.3996052,
+              39.4684183
+            ]
+          ]
+        ]
+      },
+      "id": "way/542621758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542621974",
+        "amenity": "police",
+        "building": "yes",
+        "name": "CISE (Sala 092 PLV)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.398942,
+              39.4681787
+            ],
+            [
+              -0.3991726,
+              39.4674376
+            ],
+            [
+              -0.3989854,
+              39.4674082
+            ],
+            [
+              -0.3987657,
+              39.4681452
+            ],
+            [
+              -0.398942,
+              39.4681787
+            ]
+          ]
+        ]
+      },
+      "id": "way/542621974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551163540",
+        "amenity": "police",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3556261,
+              39.5119809
+            ],
+            [
+              -0.3557172,
+              39.5118613
+            ],
+            [
+              -0.3557915,
+              39.5117638
+            ],
+            [
+              -0.3557249,
+              39.5117257
+            ],
+            [
+              -0.3555521,
+              39.5119485
+            ],
+            [
+              -0.3556261,
+              39.5119809
+            ]
+          ]
+        ]
+      },
+      "id": "way/551163540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560500559",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Comisaría de Policía de Ruzafa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3703983,
+              39.4566045
+            ],
+            [
+              -0.3700342,
+              39.4566045
+            ],
+            [
+              -0.3700645,
+              39.4558605
+            ],
+            [
+              -0.3686724,
+              39.4555765
+            ],
+            [
+              -0.36868,
+              39.4556497
+            ],
+            [
+              -0.3686421,
+              39.4556526
+            ],
+            [
+              -0.3686307,
+              39.4556028
+            ],
+            [
+              -0.3672272,
+              39.4555735
+            ],
+            [
+              -0.3671703,
+              39.4555062
+            ],
+            [
+              -0.3670641,
+              39.4555472
+            ],
+            [
+              -0.3673524,
+              39.4560451
+            ],
+            [
+              -0.3673695,
+              39.4561426
+            ],
+            [
+              -0.3678556,
+              39.4569504
+            ],
+            [
+              -0.3680959,
+              39.4568183
+            ],
+            [
+              -0.3684714,
+              39.4568124
+            ],
+            [
+              -0.3684713,
+              39.4569098
+            ],
+            [
+              -0.369639,
+              39.4568575
+            ],
+            [
+              -0.3698969,
+              39.4568488
+            ],
+            [
+              -0.3698874,
+              39.4569015
+            ],
+            [
+              -0.3702383,
+              39.456878
+            ],
+            [
+              -0.3702364,
+              39.4569893
+            ],
+            [
+              -0.3703711,
+              39.4569805
+            ],
+            [
+              -0.3703983,
+              39.4566045
+            ]
+          ]
+        ]
+      },
+      "id": "way/560500559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84977648",
+        "amenity": "police",
+        "created_by": "Potlatch 0.4c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3638481,
+          39.4736505
+        ]
+      },
+      "id": "node/84977648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/107381657",
+        "amenity": "police",
+        "name": "Policía Nacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4106338,
+          39.4603512
+        ]
+      },
+      "id": "node/107381657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/123789779",
+        "amenity": "police",
+        "name": "Comisaría de Policía Nacional del distrito de Abastos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.388077,
+          39.4681963
+        ]
+      },
+      "id": "node/123789779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313360209",
+        "amenity": "police",
+        "name": "Policia Local de Torrent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4629438,
+          39.4329999
+        ]
+      },
+      "id": "node/313360209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/322523925",
+        "amenity": "police",
+        "name": "Comisaría Central Policia Local de Paterna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4547841,
+          39.5122494
+        ]
+      },
+      "id": "node/322523925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365519631",
+        "amenity": "police",
+        "name": "Oficina del NIF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3832932,
+          39.4708294
+        ]
+      },
+      "id": "node/365519631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/540584961",
+        "amenity": "police",
+        "name": "Guardia Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3639149,
+          39.5042249
+        ]
+      },
+      "id": "node/540584961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567442974",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.372961,
+          39.490063
+        ]
+      },
+      "id": "node/567442974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844643094",
+        "amenity": "police",
+        "name": "Comisaria Policia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4504512,
+          39.4824442
+        ]
+      },
+      "id": "node/844643094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341008600",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3981783,
+          39.4680794
+        ]
+      },
+      "id": "node/1341008600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341008634",
+        "amenity": "police",
+        "name": "Policía Nacional. Brigada Provincial de Seguridad Ciudadana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3677167,
+          39.4564861
+        ]
+      },
+      "id": "node/1341008634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560588581",
+        "addr:city": "Mislata",
+        "addr:housenumber": "4",
+        "addr:housenumber_1": "963 83 33 33",
+        "addr:postcode": "46920",
+        "addr:street": "Avinguda de Buenos Aires",
+        "amenity": "police",
+        "name": "Central Policía Local Mislata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4154277,
+          39.4786708
+        ]
+      },
+      "id": "node/1560588581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1698206411",
+        "amenity": "police",
+        "name": "Policía Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3983045,
+          39.4113684
+        ]
+      },
+      "id": "node/1698206411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887531402",
+        "amenity": "police",
+        "name": "Guardia Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4121128,
+          39.3933692
+        ]
+      },
+      "id": "node/1887531402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887531403",
+        "amenity": "police",
+        "name": "Policia Municipal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4118446,
+          39.3936677
+        ]
+      },
+      "id": "node/1887531403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2450630626",
+        "amenity": "police",
+        "name": "Central de emergencias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3451006,
+          39.4994996
+        ]
+      },
+      "id": "node/2450630626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3586037121",
+        "amenity": "police",
+        "name": "Comisaría de Policía Nacional del distrito de Ruzafa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.367232,
+          39.4558875
+        ]
+      },
+      "id": "node/3586037121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3586041405",
+        "amenity": "police",
+        "name": "Comisaria Policía Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3685161,
+          39.45041
+        ]
+      },
+      "id": "node/3586041405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688177547",
+        "addr:city": "Xirivella",
+        "addr:housenumber": "21",
+        "addr:postcode": "46950",
+        "addr:street": "Calle de Ramón Muntaner",
+        "amenity": "police",
+        "name": "Policía Local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4276794,
+          39.4674296
+        ]
+      },
+      "id": "node/3688177547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688184958",
+        "addr:city": "Xirivella",
+        "addr:housenumber": "4",
+        "addr:postcode": "46950",
+        "addr:street": "Calle de Jaume Roig",
+        "amenity": "police",
+        "name": "Policía Nacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.437381,
+          39.4647584
+        ]
+      },
+      "id": "node/3688184958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3889666653",
+        "addr:city": "Valencia",
+        "addr:housenumber": "12",
+        "addr:postcode": "46011",
+        "addr:street": "Carrer de Xulilla",
+        "amenity": "police",
+        "level": "0",
+        "name": "Comisaría de Distrito Valencia Marítimo",
+        "phone": "+34 963539726",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3271268,
+          39.4663546
+        ]
+      },
+      "id": "node/3889666653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4270942189",
+        "addr:housenumber": "30",
+        "addr:street": "Calle de Vicente Blasco Ibáñez",
+        "amenity": "police",
+        "name": "Comisaria Policia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.450839,
+          39.4820244
+        ]
+      },
+      "id": "node/4270942189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4581020599",
+        "amenity": "police",
+        "name": "Comisaria Policia Nacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4126437,
+          39.4714217
+        ]
+      },
+      "id": "node/4581020599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4816443922",
+        "amenity": "police",
+        "name": "Dirección General de la Policía Abastos",
+        "name:es": "Dirección General de la Policía Abastos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3854992,
+          39.4705629
+        ]
+      },
+      "id": "node/4816443922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4862562321",
+        "addr:street": "Avinguda del Baró de Càrcer",
+        "amenity": "police",
+        "name": "Coche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3799404,
+          39.4711285
+        ]
+      },
+      "id": "node/4862562321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5353234922",
+        "amenity": "police",
+        "name": "Jefatura Superior de Policía Nacional de la Comunidad Valenciana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3839163,
+          39.4693295
+        ]
+      },
+      "id": "node/5353234922"
+    }
+  ]
+}

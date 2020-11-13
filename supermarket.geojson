@@ -1,0 +1,3762 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-06-16T07:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23761013",
+        "addr:housenumber": "78",
+        "addr:postcode": "46015",
+        "addr:street": "Avenida del Maestro Rodrigo",
+        "building": "yes",
+        "name": "Dia Maxi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4053826,
+              39.4888814
+            ],
+            [
+              -0.4052313,
+              39.4886693
+            ],
+            [
+              -0.4046956,
+              39.4888967
+            ],
+            [
+              -0.4048468,
+              39.4891089
+            ],
+            [
+              -0.4053826,
+              39.4888814
+            ]
+          ]
+        ]
+      },
+      "id": "way/23761013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23776578",
+        "addr:city": "Valencia",
+        "addr:housenumber": "83",
+        "addr:street": "Cami de Montcada",
+        "building": "yes",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "postal_code": "46025",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3807157,
+              39.4931263
+            ],
+            [
+              -0.3806305,
+              39.4929045
+            ],
+            [
+              -0.3799218,
+              39.4930667
+            ],
+            [
+              -0.3799921,
+              39.4932497
+            ],
+            [
+              -0.380524,
+              39.4931279
+            ],
+            [
+              -0.3805389,
+              39.4931667
+            ],
+            [
+              -0.3807157,
+              39.4931263
+            ]
+          ]
+        ]
+      },
+      "id": "way/23776578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103029752",
+        "name": "Consum",
+        "operator": "Consum",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3941916,
+              39.4551276
+            ],
+            [
+              -0.394489,
+              39.4552491
+            ],
+            [
+              -0.3943616,
+              39.4554474
+            ],
+            [
+              -0.3944715,
+              39.4554895
+            ],
+            [
+              -0.3947052,
+              39.4551258
+            ],
+            [
+              -0.3944911,
+              39.4550413
+            ],
+            [
+              -0.3942666,
+              39.4549577
+            ],
+            [
+              -0.3941916,
+              39.4551276
+            ]
+          ]
+        ]
+      },
+      "id": "way/103029752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103029760",
+        "operator": "Consum",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3897332,
+              39.4527452
+            ],
+            [
+              -0.3895888,
+              39.4526875
+            ],
+            [
+              -0.3893916,
+              39.4529816
+            ],
+            [
+              -0.3892004,
+              39.4532669
+            ],
+            [
+              -0.3895458,
+              39.4534049
+            ],
+            [
+              -0.3897364,
+              39.4531206
+            ],
+            [
+              -0.3895354,
+              39.4530403
+            ],
+            [
+              -0.3897332,
+              39.4527452
+            ]
+          ]
+        ]
+      },
+      "id": "way/103029760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118251587",
+        "building": "yes",
+        "name": "Eroski",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4042991,
+              39.5002216
+            ],
+            [
+              -0.4047737,
+              39.4999111
+            ],
+            [
+              -0.4044691,
+              39.4996339
+            ],
+            [
+              -0.4043076,
+              39.4994868
+            ],
+            [
+              -0.403833,
+              39.4997973
+            ],
+            [
+              -0.4042991,
+              39.5002216
+            ]
+          ]
+        ]
+      },
+      "id": "way/118251587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157223683",
+        "building": "yes",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona Plaza de la Mezquita",
+        "operator": "Mercadona",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.353033,
+              39.4775166
+            ],
+            [
+              -0.3536914,
+              39.4776979
+            ],
+            [
+              -0.3538952,
+              39.477377
+            ],
+            [
+              -0.3536887,
+              39.4772218
+            ],
+            [
+              -0.353635,
+              39.4772011
+            ],
+            [
+              -0.3535197,
+              39.477404
+            ],
+            [
+              -0.3532756,
+              39.4773377
+            ],
+            [
+              -0.3532408,
+              39.4773977
+            ],
+            [
+              -0.3531093,
+              39.4773708
+            ],
+            [
+              -0.353033,
+              39.4775166
+            ]
+          ]
+        ]
+      },
+      "id": "way/157223683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168912674",
+        "name": "Más y Más",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4180791,
+              39.4791415
+            ],
+            [
+              -0.4181381,
+              39.4789096
+            ],
+            [
+              -0.4175426,
+              39.4788351
+            ],
+            [
+              -0.417489,
+              39.4790504
+            ],
+            [
+              -0.4180791,
+              39.4791415
+            ]
+          ]
+        ]
+      },
+      "id": "way/168912674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/245837493",
+        "name": "Makro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4070953,
+              39.4547391
+            ],
+            [
+              -0.4069719,
+              39.4546169
+            ],
+            [
+              -0.4069263,
+              39.4545817
+            ],
+            [
+              -0.4068781,
+              39.4545713
+            ],
+            [
+              -0.4068325,
+              39.4545838
+            ],
+            [
+              -0.4056845,
+              39.4554308
+            ],
+            [
+              -0.4055745,
+              39.4555468
+            ],
+            [
+              -0.4055316,
+              39.4556089
+            ],
+            [
+              -0.4055128,
+              39.455669
+            ],
+            [
+              -0.4055128,
+              39.4557352
+            ],
+            [
+              -0.4055477,
+              39.4558761
+            ],
+            [
+              -0.4056442,
+              39.4560583
+            ],
+            [
+              -0.4059122,
+              39.456464
+            ],
+            [
+              -0.4060801,
+              39.456402
+            ],
+            [
+              -0.4065325,
+              39.4562348
+            ],
+            [
+              -0.4069177,
+              39.4560925
+            ],
+            [
+              -0.406945,
+              39.4560824
+            ],
+            [
+              -0.4068135,
+              39.4558767
+            ],
+            [
+              -0.4073984,
+              39.4556586
+            ],
+            [
+              -0.4076827,
+              39.4555488
+            ],
+            [
+              -0.4070953,
+              39.4547391
+            ]
+          ]
+        ]
+      },
+      "id": "way/245837493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264281581",
+        "building": "yes",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3460115,
+              39.471417
+            ],
+            [
+              -0.3461252,
+              39.4711851
+            ],
+            [
+              -0.3453825,
+              39.4709681
+            ],
+            [
+              -0.3453604,
+              39.4710936
+            ],
+            [
+              -0.3452159,
+              39.4710507
+            ],
+            [
+              -0.3451568,
+              39.4711716
+            ],
+            [
+              -0.345977,
+              39.4714013
+            ],
+            [
+              -0.3460115,
+              39.471417
+            ]
+          ]
+        ]
+      },
+      "id": "way/264281581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270690277",
+        "building": "yes",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3950428,
+              39.4563012
+            ],
+            [
+              -0.3946099,
+              39.4563343
+            ],
+            [
+              -0.3942674,
+              39.4566134
+            ],
+            [
+              -0.3943007,
+              39.4566832
+            ],
+            [
+              -0.3943815,
+              39.4567309
+            ],
+            [
+              -0.3944434,
+              39.4567713
+            ],
+            [
+              -0.39451,
+              39.456797
+            ],
+            [
+              -0.3945766,
+              39.456786
+            ],
+            [
+              -0.3945575,
+              39.4568154
+            ],
+            [
+              -0.3948291,
+              39.4569333
+            ],
+            [
+              -0.3950999,
+              39.4567273
+            ],
+            [
+              -0.3950428,
+              39.4563012
+            ]
+          ]
+        ]
+      },
+      "id": "way/270690277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319258302",
+        "addr:city": "Valencia",
+        "addr:postcode": "46022",
+        "addr:street": "Carrer de José Aguilar",
+        "building": "yes",
+        "name": "Mercadona",
+        "opening_hours": "09:00 - 21:30",
+        "operator": "Mercadona",
+        "phone": "963309941",
+        "shop": "supermarket",
+        "source": "https://www.mercadona.es/list_prov.php",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.340383,
+              39.4647839
+            ],
+            [
+              -0.3395417,
+              39.4646885
+            ],
+            [
+              -0.3395308,
+              39.4647083
+            ],
+            [
+              -0.3403118,
+              39.464935
+            ],
+            [
+              -0.340383,
+              39.4647839
+            ]
+          ]
+        ]
+      },
+      "id": "way/319258302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404032583",
+        "building": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3739136,
+              39.4531863
+            ],
+            [
+              -0.3743239,
+              39.4530188
+            ],
+            [
+              -0.3739745,
+              39.4525085
+            ],
+            [
+              -0.3738943,
+              39.4525412
+            ],
+            [
+              -0.3735641,
+              39.452676
+            ],
+            [
+              -0.3739136,
+              39.4531863
+            ]
+          ]
+        ]
+      },
+      "id": "way/404032583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419920805",
+        "addr:city": "Valencia",
+        "addr:postcode": "46025",
+        "addr:street": "Avenida de Ecuador",
+        "area": "yes",
+        "ele": "0, -1",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3871455,
+              39.4929555
+            ],
+            [
+              -0.3869042,
+              39.4933488
+            ],
+            [
+              -0.3873118,
+              39.4934812
+            ],
+            [
+              -0.3875318,
+              39.4930879
+            ],
+            [
+              -0.3871455,
+              39.4929555
+            ]
+          ]
+        ]
+      },
+      "id": "way/419920805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550228577",
+        "building": "yes",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4158037,
+              39.468082
+            ],
+            [
+              -0.4156303,
+              39.4680923
+            ],
+            [
+              -0.4156637,
+              39.4683739
+            ],
+            [
+              -0.4156661,
+              39.4683936
+            ],
+            [
+              -0.415837,
+              39.4683809
+            ],
+            [
+              -0.4158456,
+              39.4684538
+            ],
+            [
+              -0.4160449,
+              39.4684382
+            ],
+            [
+              -0.4160467,
+              39.4684543
+            ],
+            [
+              -0.4162165,
+              39.468442
+            ],
+            [
+              -0.4162243,
+              39.4685233
+            ],
+            [
+              -0.4163321,
+              39.4685182
+            ],
+            [
+              -0.4164236,
+              39.4685138
+            ],
+            [
+              -0.4163863,
+              39.4681277
+            ],
+            [
+              -0.4161873,
+              39.468138
+            ],
+            [
+              -0.4161891,
+              39.4681569
+            ],
+            [
+              -0.4160183,
+              39.4681669
+            ],
+            [
+              -0.4160114,
+              39.4680709
+            ],
+            [
+              -0.4159305,
+              39.4680752
+            ],
+            [
+              -0.4158037,
+              39.468082
+            ]
+          ]
+        ]
+      },
+      "id": "way/550228577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558581603",
+        "name": "Lidl",
+        "name:es": "Lidl",
+        "phone": "+34 900 958 311",
+        "shop": "supermarket",
+        "website": "https://lidl.es",
+        "wikipedia": "es:Lidl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.4238312,
+              39.4684197
+            ],
+            [
+              -0.4238599,
+              39.4684657
+            ],
+            [
+              -0.423673,
+              39.4685354
+            ],
+            [
+              -0.4237765,
+              39.468701
+            ],
+            [
+              -0.4237302,
+              39.4687183
+            ],
+            [
+              -0.4237761,
+              39.4687918
+            ],
+            [
+              -0.4244041,
+              39.4685577
+            ],
+            [
+              -0.4242258,
+              39.4682726
+            ],
+            [
+              -0.4238312,
+              39.4684197
+            ]
+          ]
+        ]
+      },
+      "id": "way/558581603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/99503486",
+        "addr:postcode": "46010",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3628127,
+          39.4766594
+        ]
+      },
+      "id": "node/99503486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106333350",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4033839,
+          39.4531762
+        ]
+      },
+      "id": "node/106333350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106914614",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3743043,
+          39.4524777
+        ]
+      },
+      "id": "node/106914614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106914654",
+        "created_by": "Gaspar Mora Navarro",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3721654,
+          39.4505646
+        ]
+      },
+      "id": "node/106914654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106914672",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3741097,
+          39.4530942
+        ]
+      },
+      "id": "node/106914672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106914701",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3752203,
+          39.4526054
+        ]
+      },
+      "id": "node/106914701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106914719",
+        "addr:city": "Valencia",
+        "addr:housenumber": "71",
+        "addr:postcode": "46006",
+        "addr:street": "Carrer de la Pianista Amparo Iturbi",
+        "name": "Consum Basic",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3757511,
+          39.454908
+        ]
+      },
+      "id": "node/106914719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/109967232",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4037265,
+          39.4537653
+        ]
+      },
+      "id": "node/109967232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318321813",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348203,
+          39.4750318
+        ]
+      },
+      "id": "node/318321813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318321824",
+        "addr:city": "Valencia",
+        "name": "Consum",
+        "shop": "supermarket",
+        "website": "http://www.consum.es/ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3478056,
+          39.4760214
+        ]
+      },
+      "id": "node/318321824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318325840",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3481778,
+          39.4745644
+        ]
+      },
+      "id": "node/318325840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/525664378",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3917474,
+          39.4436039
+        ]
+      },
+      "id": "node/525664378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530074755",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3959186,
+          39.4830955
+        ]
+      },
+      "id": "node/530074755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/707430183",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3717317,
+          39.4893358
+        ]
+      },
+      "id": "node/707430183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/825264575",
+        "name": "Consum",
+        "operator": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3590522,
+          39.4733891
+        ]
+      },
+      "id": "node/825264575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/825264576",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3703703,
+          39.4953958
+        ]
+      },
+      "id": "node/825264576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/869392575",
+        "name": "Alcampo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3232245,
+          39.5069342
+        ]
+      },
+      "id": "node/869392575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1189715660",
+        "name": "Dia",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3907615,
+          39.4541054
+        ]
+      },
+      "id": "node/1189715660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1194791960",
+        "name": "OpenCor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3669977,
+          39.4776212
+        ]
+      },
+      "id": "node/1194791960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386005512",
+        "name": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3802202,
+          39.4949603
+        ]
+      },
+      "id": "node/1386005512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386005513",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3792439,
+          39.4939667
+        ]
+      },
+      "id": "node/1386005513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386005516",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3785168,
+          39.4914046
+        ]
+      },
+      "id": "node/1386005516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386005517",
+        "name": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.379437,
+          39.4950265
+        ]
+      },
+      "id": "node/1386005517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1386005518",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3789113,
+          39.4932756
+        ]
+      },
+      "id": "node/1386005518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1452342492",
+        "addr:housenumber": "22",
+        "addr:postcode": "46015",
+        "addr:street": "Calle de Castielfabib",
+        "name": "Consum",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3964769,
+          39.4796268
+        ]
+      },
+      "id": "node/1452342492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1452779636",
+        "addr:housenumber": "15",
+        "addr:postcode": "46015",
+        "addr:street": "Avenida Pío XII",
+        "name": "Herbolario Navarro",
+        "organic": "only",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "http://www.herbolarionavarro.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3937716,
+          39.4812758
+        ]
+      },
+      "id": "node/1452779636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474264704",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:15-21:15",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3958363,
+          39.4912062
+        ]
+      },
+      "id": "node/1474264704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1479104479",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3966152,
+          39.4918933
+        ]
+      },
+      "id": "node/1479104479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1480123244",
+        "name": "Consum",
+        "opening_hours": "Mo-Su 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3991226,
+          39.4910463
+        ]
+      },
+      "id": "node/1480123244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1563550248",
+        "name": "Carrefour Campanar",
+        "shop": "supermarket",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4047287,
+          39.4771439
+        ]
+      },
+      "id": "node/1563550248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1563550254",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket",
+        "source": "Survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4034198,
+          39.4822947
+        ]
+      },
+      "id": "node/1563550254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594857166",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3751377,
+          39.4883983
+        ]
+      },
+      "id": "node/1594857166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1594857578",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3728806,
+          39.4868841
+        ]
+      },
+      "id": "node/1594857578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1595401596",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3465184,
+          39.4630901
+        ]
+      },
+      "id": "node/1595401596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1671632000",
+        "addr:city": "Valencia",
+        "addr:housenumber": "6",
+        "addr:postcode": "46022",
+        "addr:street": "Carrer de José María Haro (Magistrat)",
+        "name": "Mercadona",
+        "opening_hours": "09:00 - 21:30",
+        "operator": "Mercadona",
+        "phone": "963720079",
+        "shop": "supermarket",
+        "source": "https://www.mercadona.es/list_prov.php",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3386441,
+          39.4682952
+        ]
+      },
+      "id": "node/1671632000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699209646",
+        "addr:housenumber": "21",
+        "addr:postcode": "46019",
+        "addr:street": "Carrer Beata Santa Genoveva Torres",
+        "name": "Centro comercial Arena",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "phone": "+34914908900",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3624464,
+          39.494442
+        ]
+      },
+      "id": "node/1699209646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699217297",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3506408,
+          39.4961174
+        ]
+      },
+      "id": "node/1699217297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699217727",
+        "name": "Consum",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.352688,
+          39.4967109
+        ]
+      },
+      "id": "node/1699217727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1707333838",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 10:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3452875,
+          39.4571156
+        ]
+      },
+      "id": "node/1707333838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708719143",
+        "name": "Día",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3434586,
+          39.4611332
+        ]
+      },
+      "id": "node/1708719143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708719150",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3442311,
+          39.46168
+        ]
+      },
+      "id": "node/1708719150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708940829",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3444244,
+          39.4718305
+        ]
+      },
+      "id": "node/1708940829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708940835",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345977,
+          39.4714013
+        ]
+      },
+      "id": "node/1708940835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708940860",
+        "name": "Consum Basic",
+        "operator": "Consum",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3440704,
+          39.4723916
+        ]
+      },
+      "id": "node/1708940860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1708952090",
+        "name": "Dia",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345509,
+          39.4744524
+        ]
+      },
+      "id": "node/1708952090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289777",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3664771,
+          39.45897
+        ]
+      },
+      "id": "node/1783289777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289780",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3753781,
+          39.46074
+        ]
+      },
+      "id": "node/1783289780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289781",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3660587,
+          39.4615851
+        ]
+      },
+      "id": "node/1783289781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289782",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "8",
+        "addr:postcode": "46004",
+        "addr:street": "Carrer del General San Martín",
+        "name": "Consum",
+        "opening_hours": "Mo-Sa 09:00-14:00,17:00-20:30",
+        "operator": "Consum, S. Coop. Valenciana",
+        "phone": "+34 96 380 58 51",
+        "shop": "supermarket",
+        "website": "www.consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3753612,
+          39.4652948
+        ]
+      },
+      "id": "node/1783289782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289783",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3683598,
+          39.4697391
+        ]
+      },
+      "id": "node/1783289783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289784",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3633747,
+          39.4577554
+        ]
+      },
+      "id": "node/1783289784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289787",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3744711,
+          39.459957
+        ]
+      },
+      "id": "node/1783289787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289790",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3708212,
+          39.460363
+        ]
+      },
+      "id": "node/1783289790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1783289793",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3647256,
+          39.4652486
+        ]
+      },
+      "id": "node/1783289793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1792880816",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.370406,
+          39.482615
+        ]
+      },
+      "id": "node/1792880816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1792880817",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3697032,
+          39.4839399
+        ]
+      },
+      "id": "node/1792880817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1815123494",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4174774,
+          39.4771119
+        ]
+      },
+      "id": "node/1815123494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1850882649",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3939035,
+          39.4616681
+        ]
+      },
+      "id": "node/1850882649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1891311939",
+        "addr:city": "Valencia",
+        "addr:housenumber": "89",
+        "addr:postcode": "46022",
+        "addr:street": "Carrer de Jeroni de Montsoriu",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "phone": "963309941",
+        "shop": "supermarket",
+        "source": "https://www.mercadona.es/list_prov.php",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3394465,
+          39.4648984
+        ]
+      },
+      "id": "node/1891311939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1958871080",
+        "addr:housenumber": "26",
+        "addr:postcode": "46100",
+        "addr:street": "Calle General Prim",
+        "name": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket",
+        "website": "http://www.consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4136046,
+          39.5073028
+        ]
+      },
+      "id": "node/1958871080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2149423896",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.344867,
+          39.4693231
+        ]
+      },
+      "id": "node/2149423896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2281179758",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3622524,
+          39.4853957
+        ]
+      },
+      "id": "node/2281179758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2281497821",
+        "name": "Supercor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3660262,
+          39.4898171
+        ]
+      },
+      "id": "node/2281497821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2281497833",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3642559,
+          39.4908396
+        ]
+      },
+      "id": "node/2281497833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2288834261",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3357106,
+          39.4615775
+        ]
+      },
+      "id": "node/2288834261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336818412",
+        "name": "LIDL",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4037476,
+          39.4573528
+        ]
+      },
+      "id": "node/2336818412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2407755414",
+        "addr:housenumber": "19",
+        "addr:postcode": "46001",
+        "addr:street": "Ercilla",
+        "int_name": "filateliablasco.com",
+        "name": "Filatelia Numismatica Blasco",
+        "shop": "supermarket",
+        "source": "filateliablasco.com",
+        "website": "filateliablasco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3779895,
+          39.474005
+        ]
+      },
+      "id": "node/2407755414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2475527908",
+        "name": "Aquara",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3813299,
+          39.4685544
+        ]
+      },
+      "id": "node/2475527908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501207349",
+        "name": "Aldi",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4087397,
+          39.4993167
+        ]
+      },
+      "id": "node/2501207349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2563804246",
+        "name": "Lidl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4007935,
+          39.4816063
+        ]
+      },
+      "id": "node/2563804246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2611365521",
+        "addr:city": "Xirivella",
+        "addr:housenumber": "11",
+        "addr:postcode": "46950",
+        "addr:street": "Calle de Teodoro Llorente",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "9:00 - 21:30",
+        "operator": "Mercadona",
+        "phone": "+34 963592310",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4229636,
+          39.4642246
+        ]
+      },
+      "id": "node/2611365521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2656119553",
+        "name": "Consum",
+        "operator": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3811959,
+          39.4906161
+        ]
+      },
+      "id": "node/2656119553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2656119556",
+        "name": "Consum",
+        "operator": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.380819,
+          39.4912511
+        ]
+      },
+      "id": "node/2656119556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2682321456",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3889864,
+          39.4516666
+        ]
+      },
+      "id": "node/2682321456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2682321461",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3899171,
+          39.4521222
+        ]
+      },
+      "id": "node/2682321461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701353355",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3279437,
+          39.4806824
+        ]
+      },
+      "id": "node/2701353355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2808230980",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3568309,
+          39.4782614
+        ]
+      },
+      "id": "node/2808230980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907765263",
+        "addr:city": "Valencia",
+        "addr:postcode": "46920",
+        "addr:street": "Carrer del Pare Llansol",
+        "name": "Consum",
+        "shop": "supermarket",
+        "website": "http://www.consum.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4161729,
+          39.4765957
+        ]
+      },
+      "id": "node/2907765263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2909140136",
+        "addr:city": "Mislata",
+        "addr:housenumber": "8",
+        "addr:postcode": "46920",
+        "addr:street": "Carrer Túria",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4198504,
+          39.4773048
+        ]
+      },
+      "id": "node/2909140136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3004442691",
+        "addr:city": "Mislata",
+        "addr:street": "Carrer de Sant Francesc d'Asís",
+        "name": "Charter",
+        "operator": "Charter",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4130369,
+          39.4719178
+        ]
+      },
+      "id": "node/3004442691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3004594121",
+        "addr:city": "Mislata",
+        "addr:housenumber": "9",
+        "addr:street": "Avinguda de Gregorio Gea",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4146791,
+          39.4726744
+        ]
+      },
+      "id": "node/3004594121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013881972",
+        "addr:city": "Valencia",
+        "addr:housenumber": "16",
+        "addr:postcode": "46008",
+        "addr:street": "Carrer de Navarra",
+        "name": "Mercadona",
+        "operator": "Mercadona",
+        "phone": "+34 900 50 01 03",
+        "shop": "supermarket",
+        "website": "www.mercadona.es",
+        "wheelchair": "yes",
+        "wikidata": "Q377705",
+        "wikipedia": "es:Mercadona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.385746,
+          39.4678351
+        ]
+      },
+      "id": "node/3013881972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3283707161",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3907142,
+          39.4707871
+        ]
+      },
+      "id": "node/3283707161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3467890619",
+        "addr:city": "Valencia",
+        "addr:housenumber": "7",
+        "addr:postcode": "46021",
+        "addr:street": "Plaza Xúquer",
+        "name": "Centro oportunidades Corte Ingles",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3508074,
+          39.4765571
+        ]
+      },
+      "id": "node/3467890619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3521129116",
+        "name": "charter",
+        "opening_hours": "Mo-Sa 09:00-14:00,17:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3333855,
+          39.4715908
+        ]
+      },
+      "id": "node/3521129116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3593701732",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "39",
+        "addr:place": "Benimamet",
+        "addr:postcode": "46035",
+        "addr:province": "Valencia",
+        "addr:street": "Estación",
+        "name": "Consum",
+        "phone": "+34 900 50 01 26",
+        "shop": "supermarket",
+        "website": "www.consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4225617,
+          39.5005373
+        ]
+      },
+      "id": "node/3593701732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3600385824",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3929811,
+          39.493199
+        ]
+      },
+      "id": "node/3600385824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3607188804",
+        "addr:housenumber": "3",
+        "addr:postcode": "46035",
+        "addr:street": "Calle Campamento",
+        "name": "Natur House",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4200779,
+          39.5026175
+        ]
+      },
+      "id": "node/3607188804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658278547",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "operator": "Carrefour",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3729077,
+          39.4638433
+        ]
+      },
+      "id": "node/3658278547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3658278552",
+        "name": "Supermercat D'omar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3719267,
+          39.4636691
+        ]
+      },
+      "id": "node/3658278552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3686352663",
+        "name": "Euromarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3425384,
+          39.4621495
+        ]
+      },
+      "id": "node/3686352663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698712535",
+        "name": "Consume",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3877112,
+          39.4614421
+        ]
+      },
+      "id": "node/3698712535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3713754805",
+        "name": "Coaliment",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3292803,
+          39.4660311
+        ]
+      },
+      "id": "node/3713754805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3735789628",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "19",
+        "addr:postcode": "46002",
+        "addr:street": "Carrer de Roger de Llòria",
+        "contact:website": "https://www.mercadona.es",
+        "door": "yes",
+        "entrance": "yes",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3733261,
+          39.4692121
+        ]
+      },
+      "id": "node/3735789628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759076807",
+        "addr:city": "Valencia",
+        "addr:housenumber": "22",
+        "addr:postcode": "46008",
+        "addr:street": "Gran Via Ferran 'el Catòlic'",
+        "alt_name": "Carrefour Express Fernando el Católico",
+        "brand": "Carrefour",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su,PH 10:00-21:00",
+        "phone": "+34 914 908900",
+        "shop": "supermarket",
+        "url": "http://www.carrefour.es",
+        "website": "http://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/fernando-catolico-s.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3850928,
+          39.4712079
+        ]
+      },
+      "id": "node/3759076807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3802231200",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3370831,
+          39.4625659
+        ]
+      },
+      "id": "node/3802231200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3802231201",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3326755,
+          39.4666651
+        ]
+      },
+      "id": "node/3802231201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3872587311",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "79",
+        "addr:postcode": "46007",
+        "addr:street": "Carrer de Sant Vicent Màrtir",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34 96 352 00 86",
+        "shop": "supermarket",
+        "website": "https://www.mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3801592,
+          39.4674977
+        ]
+      },
+      "id": "node/3872587311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3872587312",
+        "name": "Dialprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3798457,
+          39.4697591
+        ]
+      },
+      "id": "node/3872587312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3957283072",
+        "name": "Carrefour Express",
+        "opening_hours": "Mo-Sa 09:15-21:15; Su 09:30-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3388401,
+          39.4718195
+        ]
+      },
+      "id": "node/3957283072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4103882463",
+        "addr:city": "Valencia",
+        "addr:street": "Carrer Escultor Ricart Boix",
+        "name": "Vidal",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "902 702 604",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3928204,
+          39.4581502
+        ]
+      },
+      "id": "node/4103882463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111725004",
+        "addr:city": "Valencia",
+        "addr:postcode": "46009",
+        "addr:street": "Avenida de Burjassot",
+        "name": "Vidal",
+        "opening_hours": "Mo-Su 9:00-21:30",
+        "operator": "Vidal",
+        "phone": "+34 902 702 604",
+        "shop": "supermarket",
+        "website": "http://www.vidaltiendas.com/tienda-vidal-en-valencia-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3831355,
+          39.4834015
+        ]
+      },
+      "id": "node/4111725004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111725005",
+        "addr:city": "Valencia",
+        "addr:postcode": "46008",
+        "addr:street": "Calle de Cuenca",
+        "name": "Vidal",
+        "opening_hours": "Mo-Su 9:00-21:00",
+        "phone": "+34 902 702 604",
+        "shop": "supermarket",
+        "website": "http://www.vidaltiendas.com/tienda-vidal-en-valencia-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.383985,
+          39.4696893
+        ]
+      },
+      "id": "node/4111725005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111725006",
+        "addr:city": "Valencia",
+        "addr:postcode": "46023",
+        "addr:street": "Carrer del Pare Tomás de Montañana",
+        "name": "Vidal",
+        "opening_hours": "Mo-Su 9:00-21:00",
+        "phone": "+34 902 702 604",
+        "shop": "supermarket",
+        "website": "http://www.vidaltiendas.com/tienda-vidal-en-valencia-calle-tomas-monta-ana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.352385,
+          39.4635025
+        ]
+      },
+      "id": "node/4111725006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4145037710",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "118",
+        "addr:postcode": "46009",
+        "addr:street": "Carrer de Sagunt",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "supermarket",
+        "website": "https://lidl.es",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3749029,
+          39.4870102
+        ]
+      },
+      "id": "node/4145037710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4179594694",
+        "addr:street": "Carrer de Trafalgar",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3449904,
+          39.4612135
+        ]
+      },
+      "id": "node/4179594694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4265726133",
+        "addr:housenumber": "4",
+        "addr:postcode": "46011",
+        "addr:street": "Carrer d'Antoni Joan",
+        "name": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3333504,
+          39.4726234
+        ]
+      },
+      "id": "node/4265726133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307621589",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3896858,
+          39.4748927
+        ]
+      },
+      "id": "node/4307621589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316605297",
+        "addr:postcode": "46011",
+        "addr:street": "Carrer de Mendizábal",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3271946,
+          39.4835123
+        ]
+      },
+      "id": "node/4316605297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384980191",
+        "name": "Consum",
+        "name:es": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3346699,
+          39.4512693
+        ]
+      },
+      "id": "node/4384980191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422965689",
+        "addr:street": "Carrera de la Fonteta de Sant Lluís",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "name:es": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3714768,
+          39.4543986
+        ]
+      },
+      "id": "node/4422965689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599439190",
+        "addr:housenumber": "49",
+        "addr:postcode": "46019",
+        "addr:street": "Avinguda Alfauir",
+        "name": "Lidl",
+        "name:ca": "Lidl",
+        "name:de": "Lidl",
+        "name:en": "Lidl",
+        "name:es": "Lidl",
+        "opening_hours": "Mo-Sa",
+        "phone": "+34902243222",
+        "shop": "supermarket",
+        "website": "http://lidl.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3592661,
+          39.4936941
+        ]
+      },
+      "id": "node/4599439190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599543390",
+        "addr:housenumber": "14",
+        "addr:postcode": "46007",
+        "addr:street": "Carrer del Convent de Jerusalem",
+        "name": "Super Nuevo Zhong Hua",
+        "name:es": "Super Nuevo Zhong Hua",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3792498,
+          39.4671679
+        ]
+      },
+      "id": "node/4599543390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599543891",
+        "addr:housenumber": "52-bjo",
+        "addr:postcode": "46005",
+        "addr:street": "Avenida del Reino de Valencia",
+        "name": "JAPON.ES productos japoneses",
+        "name:es": "JAPON.ES productos japoneses",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "phone": "+34963733028",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3676104,
+          39.4635315
+        ]
+      },
+      "id": "node/4599543891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601469191",
+        "addr:housenumber": "86",
+        "addr:postcode": "46008",
+        "addr:street": "Avenida de Pérez Galdós",
+        "name": "Aldi Valencia",
+        "name:es": "Aldi Valencia",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34900902466",
+        "shop": "supermarket",
+        "website": "http://aldi.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3915607,
+          39.4693241
+        ]
+      },
+      "id": "node/4601469191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601469192",
+        "addr:housenumber": "19",
+        "addr:postcode": "46021",
+        "addr:street": "Avinguda del Cardenal Benlloch",
+        "name": "Carrefour Express",
+        "name:es": "Carrefour Express",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+39914908900",
+        "shop": "supermarket",
+        "website": "http://carrefour.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3561034,
+          39.4681797
+        ]
+      },
+      "id": "node/4601469192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601472091",
+        "addr:housenumber": "21",
+        "addr:postcode": "46019",
+        "addr:street": "Carrer Beata Santa Genoveva Torres",
+        "name": "Carrefour",
+        "name:es": "Carrefour",
+        "opening_hours": "Mo-Sa 09:00-22:45",
+        "phone": "+34914908900",
+        "shop": "supermarket",
+        "website": "http://carrefour.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3632516,
+          39.4934631
+        ]
+      },
+      "id": "node/4601472091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4608688991",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "189",
+        "addr:postcode": "46022",
+        "addr:street": "Avinguda del Port",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "payment:coins": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "shop": "supermarket",
+        "website": "https://lidl.es",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3420225,
+          39.4629031
+        ]
+      },
+      "id": "node/4608688991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4633920690",
+        "addr:city": "Valencia",
+        "addr:housenumber": "44",
+        "addr:postcode": "46021",
+        "addr:street": "Carrer de Rodríguez de Cepeda",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "9:00 - 21:30",
+        "operator": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3515422,
+          39.4680475
+        ]
+      },
+      "id": "node/4633920690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4633920691",
+        "addr:city": "Valencia",
+        "addr:housenumber": "79",
+        "addr:postcode": "46022",
+        "addr:street": "Avinguda del Port",
+        "name": "Consum",
+        "opening_hours": "9:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3524275,
+          39.4660439
+        ]
+      },
+      "id": "node/4633920691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663518769",
+        "addr:city": "Valencia",
+        "addr:postcode": "46026",
+        "addr:street": "Carretera de Malilla",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "9:00 - 21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3795849,
+          39.4495271
+        ]
+      },
+      "id": "node/4663518769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663518770",
+        "addr:city": "Valencia",
+        "addr:housenumber": "75",
+        "addr:postcode": "46026",
+        "addr:street": "Carretera de Malilla",
+        "name": "Lidl",
+        "opening_hours": "9:00 - 21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3795436,
+          39.4483146
+        ]
+      },
+      "id": "node/4663518770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679983191",
+        "addr:street": "Avinguda del Primat Reig",
+        "name": "Mercadona",
+        "name:es": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34963690630",
+        "shop": "supermarket",
+        "website": "http://mercadona.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3608751,
+          39.482239
+        ]
+      },
+      "id": "node/4679983191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679988389",
+        "addr:housenumber": "24",
+        "addr:postcode": "46010",
+        "addr:street": "Calle del Bachiller",
+        "name": "Consum",
+        "name:es": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34963699771",
+        "shop": "supermarket",
+        "website": "http://consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3611938,
+          39.4813081
+        ]
+      },
+      "id": "node/4679988389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710305268",
+        "addr:city": "Valencia",
+        "addr:country": "ES",
+        "addr:housenumber": "1",
+        "addr:postcode": "46001",
+        "addr:street": "Carrer de l'Hostal de Morella",
+        "name": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34 96 394 14 78",
+        "shop": "supermarket",
+        "website": "www.consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3802107,
+          39.4710583
+        ]
+      },
+      "id": "node/4710305268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4734189852",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3846174,
+          39.4837107
+        ]
+      },
+      "id": "node/4734189852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4738442021",
+        "addr:street": "Avinguda del Port",
+        "name": "Alimentacion Gran Jardin",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3487868,
+          39.4646119
+        ]
+      },
+      "id": "node/4738442021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741418422",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "name:es": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3696975,
+          39.4658682
+        ]
+      },
+      "id": "node/4741418422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741566835",
+        "name": "Tandy",
+        "name:es": "Tandy",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3983311,
+          39.4774851
+        ]
+      },
+      "id": "node/4741566835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741575743",
+        "addr:street": "Gran Via Ferran 'el Catòlic'",
+        "name": "Consum",
+        "name:es": "Consum",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3868354,
+          39.4734991
+        ]
+      },
+      "id": "node/4741575743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4744211521",
+        "name": "Dia",
+        "name:es": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3796178,
+          39.4727098
+        ]
+      },
+      "id": "node/4744211521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897372522",
+        "name": "Dia",
+        "name:es": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3874878,
+          39.4653194
+        ]
+      },
+      "id": "node/4897372522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907454031",
+        "amenity": "bank",
+        "name": "Santander",
+        "name:es": "Mercadona",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3805272,
+          39.4670559
+        ]
+      },
+      "id": "node/4907454031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932505621",
+        "addr:housenumber": "27",
+        "addr:postcode": "46007",
+        "addr:street": "Gran Vía de Ramón y Cajal",
+        "name": "Ecorganic ecomarket - supermecado ecológico",
+        "name:es": "Ecorganic ecomarket - supermecado ecológico",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34963220717",
+        "shop": "supermarket",
+        "website": "http://ecorganicweb.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3823719,
+          39.4662571
+        ]
+      },
+      "id": "node/4932505621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932505622",
+        "addr:housenumber": "42",
+        "addr:postcode": "46005",
+        "addr:street": "Gran Vía del Marqués del Turia",
+        "name": "Ecorganic ecomarket - supermercado ecológico",
+        "name:es": "Ecorganic ecomarket - supermercado ecológico",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "phone": "+34960660197",
+        "shop": "supermarket",
+        "website": "http://ecorganicweb.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3692394,
+          39.4665822
+        ]
+      },
+      "id": "node/4932505622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937348723",
+        "name": "Dialprix",
+        "name:es": "Dialprix",
+        "opening_hours": "Mo-Sa 08:45-22:00; Su 09:00-15:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.384278,
+          39.4722552
+        ]
+      },
+      "id": "node/4937348723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948961222",
+        "name": "Día",
+        "name:es": "Día",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3634306,
+          39.4607644
+        ]
+      },
+      "id": "node/4948961222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989970386",
+        "name": "farm",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3352166,
+          39.460636
+        ]
+      },
+      "id": "node/4989970386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5022362882",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.335019,
+          39.4651508
+        ]
+      },
+      "id": "node/5022362882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5046860625",
+        "name": "Fornés by Masymas",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3771007,
+          39.4689854
+        ]
+      },
+      "id": "node/5046860625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5060605250",
+        "name": "SuperCOR",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3639739,
+          39.4626943
+        ]
+      },
+      "id": "node/5060605250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5060618463",
+        "name": "SuperCOR",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3573161,
+          39.4570221
+        ]
+      },
+      "id": "node/5060618463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075087170",
+        "addr:city": "Valencia",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "46007",
+        "addr:street": "Carrer Fontanares",
+        "name": "Consum",
+        "phone": "+34 963778288",
+        "shop": "supermarket",
+        "website": "http://www.consum.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.390948,
+          39.456714
+        ]
+      },
+      "id": "node/5075087170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5141774221",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 10:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3540988,
+          39.4539183
+        ]
+      },
+      "id": "node/5141774221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5176209525",
+        "contact:website": "https://www.mercadona.es",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3541321,
+          39.4633336
+        ]
+      },
+      "id": "node/5176209525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257504624",
+        "name": "Charter - consum",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3925974,
+          39.4859793
+        ]
+      },
+      "id": "node/5257504624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5270314526",
+        "name": "Carrefour",
+        "opening_hours": "Mo-Sa 09:00-21:30; Su 10:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3716229,
+          39.473102
+        ]
+      },
+      "id": "node/5270314526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5270314527",
+        "name": "Carrefour Express",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3741334,
+          39.4746637
+        ]
+      },
+      "id": "node/5270314527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273932723",
+        "name": "Unide",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3674713,
+          39.4731991
+        ]
+      },
+      "id": "node/5273932723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299082020",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3903848,
+          39.4879935
+        ]
+      },
+      "id": "node/5299082020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299082723",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3896146,
+          39.4879404
+        ]
+      },
+      "id": "node/5299082723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457116364",
+        "name": "Supermercat Dia",
+        "operator": "Dia",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3693476,
+          39.4601528
+        ]
+      },
+      "id": "node/5457116364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457896678",
+        "addr:housenumber": "36",
+        "addr:postcode": "46001",
+        "addr:street": "Avinguda del Baró de Càrcer",
+        "name": "Consum",
+        "operator": "Consum",
+        "phone": "961271928",
+        "shop": "supermarket",
+        "website": "http://uv.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3799794,
+          39.4709336
+        ]
+      },
+      "id": "node/5457896678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606897821",
+        "name": "Mercado Benicalap",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3937675,
+          39.4884942
+        ]
+      },
+      "id": "node/5606897821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5606961623",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3892529,
+          39.4897468
+        ]
+      },
+      "id": "node/5606961623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5609473043",
+        "name": "Mercadona",
+        "opening_hours": "Mo-Sa 09:00-21:30",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3888973,
+          39.4480519
+        ]
+      },
+      "id": "node/5609473043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5609473044",
+        "name": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3885674,
+          39.4492159
+        ]
+      },
+      "id": "node/5609473044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5669495752",
+        "addr:city": "València",
+        "addr:housenumber": "35",
+        "addr:postcode": "46020",
+        "addr:street": "Carrer d'Enric Navarro",
+        "name": "Consum Charter",
+        "opening_hours": "Mo-Su 09:00-14:00, 17:00-21:30; Su 09:00-14:00",
+        "operator": "Consum",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3569221,
+          39.4844037
+        ]
+      },
+      "id": "node/5669495752"
+    }
+  ]
+}
